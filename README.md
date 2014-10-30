@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
@@ -38,3 +39,11 @@ The documentation website at <http://jekyllbootstrap.com> is maintained at https
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+=======
+Jasonsama.github.io
+===================
+$ git clone https://github.com/plusjade/jekyll-bootstrap.git USERNAME.github.com
+$ cd USERNAME.github.com
+$ git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git
+$ git push origin master
+>>>>>>> 28e9e431d969210ad5a4d775375488da02fdace2
